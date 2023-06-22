@@ -694,20 +694,6 @@
   </url>
   
   <url>
-    <loc>https://sirius-tblog.github.io/tags/Xilinx/</loc>
-    <lastmod>2023-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sirius-tblog.github.io/tags/XC7A35T/</loc>
-    <lastmod>2023-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://sirius-tblog.github.io/tags/STMicroelectronics-ST/</loc>
     <lastmod>2023-06-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -723,6 +709,20 @@
   
   <url>
     <loc>https://sirius-tblog.github.io/tags/STM32F1/</loc>
+    <lastmod>2023-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sirius-tblog.github.io/tags/Xilinx/</loc>
+    <lastmod>2023-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sirius-tblog.github.io/tags/XC7A35T/</loc>
     <lastmod>2023-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -745,21 +745,14 @@
   </url>
   
   <url>
-    <loc>https://sirius-tblog.github.io/categories/Xilinx-FPGA-%E4%BE%8B%E7%A8%8B/</loc>
-    <lastmod>2023-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sirius-tblog.github.io/categories/Xilinx-FPGA-%E4%BE%8B%E7%A8%8B/XC7A35T-%E5%9E%8B/</loc>
-    <lastmod>2023-06-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://sirius-tblog.github.io/categories/MCU-%E4%BE%8B%E7%A8%8B/</loc>
+    <lastmod>2023-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sirius-tblog.github.io/categories/Xilinx-FPGA-%E4%BE%8B%E7%A8%8B/</loc>
     <lastmod>2023-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -774,6 +767,13 @@
   
   <url>
     <loc>https://sirius-tblog.github.io/categories/MCU-%E4%BE%8B%E7%A8%8B/STM32F1-%E5%AF%84%E5%AD%98%E5%99%A8%E7%89%88/</loc>
+    <lastmod>2023-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sirius-tblog.github.io/categories/Xilinx-FPGA-%E4%BE%8B%E7%A8%8B/XC7A35T-%E5%9E%8B/</loc>
     <lastmod>2023-06-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

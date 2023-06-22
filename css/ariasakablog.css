@@ -640,7 +640,7 @@ th{
     font-size: 44px;
 }
 [data-theme='light'] #cardsswiper0{
-    width:100%!important;
+    width:60%!important;
     color:var(--lyx-black);
     border: 1px solid var(--lyx-border);
     backdrop-filter: blur(30px) saturate(180%);
@@ -653,7 +653,7 @@ th{
     font-size:44px;
 }
 [data-theme='dark'] #cardsswiper0{
-    width: 100%!important;
+    width: 60%!important;
     color:var(--lyx-white);
     border: 1px solid var(--lyx-border);
     backdrop-filter: blur(30px) saturate(180%);
@@ -2288,6 +2288,9 @@ html {
 @media screen and (max-width: 900px){
     #random{
         display: none!important;
+    }
+    #cardsswiper1{
+        display: 100%!important;
     }
     #swiper-div{
         width: 100% !important;
