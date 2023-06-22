@@ -2289,7 +2289,7 @@ html {
     #random{
         display: none!important;
     }
-    #cardsswiper1{
+    #cardsswiper0{
         display: 100%!important;
     }
     #swiper-div{
@@ -2300,6 +2300,9 @@ html {
 #random2{
     display:none;
 }
+    #cardsswiper0{
+        display: 100%!important;
+    }
 }
 @media screen and (max-width: 955px){
     .menus_items:not(#sidebar-menus .menus_items),#name-container{
