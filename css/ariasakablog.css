@@ -2289,8 +2289,13 @@ html {
     #random{
         display: none!important;
     }
-    #cardsswiper0{
-        display: 100%!important;
+    [data-theme='dark'] #cardsswiper0{
+
+    width: 100%!important;
+    }
+    [data-theme='light'] #cardsswiper0{
+
+    width: 100%!important;
     }
     #swiper-div{
         width: 100% !important;
@@ -2301,7 +2306,7 @@ html {
     display:none;
 }
     #cardsswiper0{
-        display: 100%!important;
+        width:60%!important;
     }
 }
 @media screen and (max-width: 955px){
