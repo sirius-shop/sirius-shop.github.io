@@ -2535,7 +2535,7 @@ h1.page-title + .tag-cloud-list {
   float: left;
   overflow: hidden;
   margin: 5px 5px;
-  width: calc(100% / 4 - 15px);
+  width: calc(100% / 3 - 15px);
   height: 160px;
   border-radius: 12px;
   line-height: 15px;
