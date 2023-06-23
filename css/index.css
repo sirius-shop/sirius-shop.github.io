@@ -2620,8 +2620,7 @@ h1.page-title + .tag-cloud-list {
   display: none;
 }
 #article-container .ulink .ulink-item-name {
-  padding: 5px 5px;
-  height: 25px;
+  padding: 15px 5px;
   font-weight: bold;
   font-size: 1.43em;
 }
@@ -2629,6 +2628,7 @@ h1.page-title + .tag-cloud-list {
   padding: 5px 5px;
   height: 50px;
   font-size: 0.93em;
+  white-space: break-spaces;
 }
 #article-container .ulink .ulink-name {
   margin-bottom: 5px;
