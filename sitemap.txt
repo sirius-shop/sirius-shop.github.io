@@ -1,3 +1,4 @@
+https://sirius-tblog.github.io/more/othersite/index.html
 https://sirius-tblog.github.io/more/foods/index.html
 https://sirius-tblog.github.io/more/readbook/index.html
 https://sirius-tblog.github.io/solution/it/index.html
@@ -26,7 +27,6 @@ https://sirius-tblog.github.io/posts/3070638990.html
 https://sirius-tblog.github.io/posts/3652302925.html
 https://sirius-tblog.github.io/posts/3020230158.html
 https://sirius-tblog.github.io/posts/3765746710.html
-https://sirius-tblog.github.io/more/othersite/index.html
 https://sirius-tblog.github.io/solution/it/plat_linux/index.html
 https://sirius-tblog.github.io/solution/musics/index.html
 https://sirius-tblog.github.io/solution/it/plat_windows/index.html
@@ -72,19 +72,19 @@ https://sirius-tblog.github.io/posts/3825430347.html
 https://sirius-tblog.github.io/posts/1907837786.html
 https://sirius-tblog.github.io/
 https://sirius-tblog.github.io/tags/%E7%A1%AC%E4%BB%B6%E7%94%B5%E8%B7%AF/
-https://sirius-tblog.github.io/tags/Altera/
+https://sirius-tblog.github.io/tags/Xilinx/
 https://sirius-tblog.github.io/tags/FPGA/
 https://sirius-tblog.github.io/tags/%E4%BE%8B%E7%A8%8B/
-https://sirius-tblog.github.io/tags/EP4CE10/
-https://sirius-tblog.github.io/tags/Xilinx/
 https://sirius-tblog.github.io/tags/XC7A35T/
+https://sirius-tblog.github.io/tags/Altera/
+https://sirius-tblog.github.io/tags/EP4CE10/
 https://sirius-tblog.github.io/tags/STMicroelectronics-ST/
 https://sirius-tblog.github.io/tags/MCU/
 https://sirius-tblog.github.io/tags/STM32F1/
-https://sirius-tblog.github.io/categories/Altera-FPGA-%E4%BE%8B%E7%A8%8B/
-https://sirius-tblog.github.io/categories/Altera-FPGA-%E4%BE%8B%E7%A8%8B/EP4CE10-%E5%9E%8B/
 https://sirius-tblog.github.io/categories/Xilinx-FPGA-%E4%BE%8B%E7%A8%8B/
 https://sirius-tblog.github.io/categories/Xilinx-FPGA-%E4%BE%8B%E7%A8%8B/XC7A35T-%E5%9E%8B/
+https://sirius-tblog.github.io/categories/Altera-FPGA-%E4%BE%8B%E7%A8%8B/
+https://sirius-tblog.github.io/categories/Altera-FPGA-%E4%BE%8B%E7%A8%8B/EP4CE10-%E5%9E%8B/
 https://sirius-tblog.github.io/categories/MCU-%E4%BE%8B%E7%A8%8B/
 https://sirius-tblog.github.io/categories/MCU-%E4%BE%8B%E7%A8%8B/STM32F1-%E5%BA%93%E5%87%BD%E6%95%B0%E7%89%88/
 https://sirius-tblog.github.io/categories/MCU-%E4%BE%8B%E7%A8%8B/STM32F1-%E5%AF%84%E5%AD%98%E5%99%A8%E7%89%88/
